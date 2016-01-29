@@ -1,0 +1,14 @@
+.create-estimate {
+	position: relative;
+	top: -8px;
+	color: #337ab7 !important;
+	text-decoration: none !important;
+}
+
+.remove-support {
+	line-height: 30px;
+}
+
+.nav-tabs .fa-check-square {
+	color: #418bca;
+}
